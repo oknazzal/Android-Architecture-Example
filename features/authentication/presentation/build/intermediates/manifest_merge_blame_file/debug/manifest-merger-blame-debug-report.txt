@@ -1,0 +1,32 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.oknazzal.architecture.example.feature.authentication.presentation" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="33" />
+7-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml
+8
+9    <application>
+9-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:5:5-18:19
+10        <activity
+10-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:7:9-17:20
+11            android:name="com.oknazzal.architecture.example.feature.authentication.presentation.AuthenticationActivity"
+11-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:8:13-51
+12            android:exported="true" >
+12-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:9:13-36
+13            <intent-filter>
+13-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:11:13-16:29
+14                <action android:name="android.intent.action.MAIN" />
+14-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:13:17-69
+14-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:13:25-66
+15
+16                <category android:name="android.intent.category.LAUNCHER" />
+16-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:15:17-77
+16-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:15:27-74
+17            </intent-filter>
+18        </activity>
+19    </application>
+20
+21</manifest>

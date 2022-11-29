@@ -1,0 +1,11 @@
+include ':app'
+include ':features:authentication:data'
+include ':features:authentication:domain'
+include ':features:authentication:presentation'
+include ':features:images:data'
+include ':features:images:domain'
+include ':features:images:presentation'
+include ':core'
+include ':core:components'
+include ':core:network'
+

@@ -1,0 +1,21 @@
+com.oknazzal.architecture.example.feature.authentication.presentation
+id action_loginFragment_to_registerFragment
+id button_login
+id button_register
+id button_submit
+id edit_text_age
+id edit_text_email
+id edit_text_name
+id edit_text_password
+id fragment_container
+id loginFragment
+id navigation_authentication
+id registerFragment
+id text_input_layout_age
+id text_input_layout_email
+id text_input_layout_name
+id text_input_layout_password
+layout activity_authentication
+layout fragment_login
+layout fragment_register
+navigation navigation_authentication

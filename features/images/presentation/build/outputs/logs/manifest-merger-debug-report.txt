@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:3:5-76
+		INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml
+		INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:5:5-30:19
+activity#com.oknazzal.architecture.example.feature.images.presentation.list.ImagesListActivity
+ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:7:9-17:20
+	android:exported
+		ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:9:13-37
+	android:name
+		ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:8:13-52
+intent-filter#action:name:com.oknazzal.images.LIST+category:name:android.intent.category.DEFAULT
+ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:11:13-16:29
+category#android.intent.category.DEFAULT
+ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:13:17-76
+	android:name
+		ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:13:27-73
+action#com.oknazzal.images.LIST
+ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:15:17-67
+	android:name
+		ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:15:25-64
+activity#com.oknazzal.architecture.example.feature.images.presentation.details.ImageDetailsActivity
+ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:19:9-29:20
+	android:exported
+		ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:20:13-57
+intent-filter#action:name:com.oknazzal.images.DETAILS+category:name:android.intent.category.DEFAULT
+ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:23:13-28:29
+action#com.oknazzal.images.DETAILS
+ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:27:17-70
+	android:name
+		ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:27:25-67
+uses-sdk
+INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml
+INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml
+INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml
+INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml
+		ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml
+		INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml
+		ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml
+		INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml

@@ -1,0 +1,1 @@
+com.oknazzal.architecture.example.feature.authentication.domain

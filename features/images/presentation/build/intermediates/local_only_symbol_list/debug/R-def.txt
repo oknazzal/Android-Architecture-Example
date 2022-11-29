@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+drawable bg_full_round_shape
+id image_view_image
+id image_view_row_image
+id image_view_row_user_image
+id image_view_row_user_name
+id image_view_user_image
+id image_view_user_name
+id progress_bar
+id recycler_view_images
+id text_view_comments_count
+id text_view_downloads_count
+id text_view_image_size
+id text_view_image_size_label
+id text_view_image_tags
+id text_view_image_tags_label
+id text_view_image_type
+id text_view_image_type_label
+id text_view_likes_count
+id text_view_views_count
+layout activity_image_details
+layout activity_images_list
+layout row_image
+plurals label_comments
+plurals label_downloads
+plurals label_likes
+plurals label_views
+string label_image_size
+string label_image_tags
+string label_image_type

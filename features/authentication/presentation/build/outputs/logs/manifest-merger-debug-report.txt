@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:3:5-84
+		INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml
+		INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:5:5-18:19
+activity#com.oknazzal.architecture.example.feature.authentication.presentation.AuthenticationActivity
+ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:7:9-17:20
+	android:exported
+		ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:9:13-36
+	android:name
+		ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:8:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:11:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml
+INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml
+INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml
+INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml
+		ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml
+		INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml
+		ADDED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml
+		INJECTED from /Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/authentication/presentation/src/main/AndroidManifest.xml

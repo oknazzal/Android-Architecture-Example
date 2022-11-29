@@ -1,0 +1,40 @@
+apply plugin: "com.android.library"
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-kapt'
+apply plugin: 'dagger.hilt.android.plugin'
+apply plugin: 'com.google.devtools.ksp'
+
+android {
+    compileSdkVersion 33
+
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 33
+    }
+
+    buildTypes {
+
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro"
+        }
+    }
+}
+
+dependencies {
+    api(project(":features:images:domain"))
+
+    implementation "com.squareup.retrofit2:retrofit:2.9.0"
+    implementation "com.squareup.retrofit2:converter-moshi:2.9.0"
+    implementation 'com.serjltt.moshi:moshi-lazy-adapters:2.2'
+    implementation 'androidx.paging:paging-common-ktx:3.1.1'
+    ksp 'com.squareup.moshi:moshi-kotlin-codegen:1.12.0'
+    implementation 'com.squareup.moshi:moshi-kotlin:1.12.0'
+    implementation 'com.squareup.moshi:moshi-adapters:1.12.0'
+    implementation 'com.squareup.moshi:moshi:1.12.0'
+
+    implementation "com.google.dagger:dagger:2.43.2"
+    implementation "com.google.dagger:hilt-android:2.43.2"
+    kapt "com.google.dagger:dagger-compiler:2.43.2"
+    kapt "com.google.dagger:hilt-compiler:2.43.2"
+}

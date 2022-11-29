@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2215" />
+        <entry key="features/authentication/presentation/src/main/res/layout/activity_authentication.xml" value="0.21105072463768115" />
+        <entry key="features/authentication/presentation/src/main/res/layout/fragment_login.xml" value="0.21105072463768115" />
+        <entry key="features/authentication/presentation/src/main/res/layout/fragment_register.xml" value="0.21105072463768115" />
+        <entry key="features/home/presentation/src/main/res/drawable/bg_full_round_shape.xml" value="0.242" />
+        <entry key="features/home/presentation/src/main/res/drawable/row_venue_background.xml" value="0.242" />
+        <entry key="features/home/presentation/src/main/res/layout/activity_main.xml" value="0.16793313069908813" />
+        <entry key="features/home/presentation/src/main/res/layout/activity_venue_recommendations.xml" value="0.16793313069908813" />
+        <entry key="features/home/presentation/src/main/res/layout/fragment_home.xml" value="0.2545289855072464" />
+        <entry key="features/home/presentation/src/main/res/layout/fragment_image_details.xml" value="0.3153025154647131" />
+        <entry key="features/home/presentation/src/main/res/layout/row_image.xml" value="0.29727273649236957" />
+        <entry key="features/home/presentation/src/main/res/layout/row_venue.xml" value="0.1" />
+        <entry key="features/images/presentation/src/main/res/drawable/bg_full_round_shape.xml" value="0.2215" />
+        <entry key="features/images/presentation/src/main/res/drawable/ic_more.xml" value="0.2215" />
+        <entry key="features/images/presentation/src/main/res/drawable/ic_venue.xml" value="0.2215" />
+        <entry key="features/images/presentation/src/main/res/drawable/row_venue_background.xml" value="0.2215" />
+        <entry key="features/images/presentation/src/main/res/layout/activity_image_details.xml" value="0.19067028985507245" />
+        <entry key="features/images/presentation/src/main/res/layout/activity_images_list.xml" value="0.21105072463768115" />
+        <entry key="features/images/presentation/src/main/res/layout/row_image.xml" value="0.21105072463768115" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="retry">Retry</string>
+    <string name="enable_location_message">Enable Location</string>
+    <string name="enable_location">Enable Location</string>
+</resources>

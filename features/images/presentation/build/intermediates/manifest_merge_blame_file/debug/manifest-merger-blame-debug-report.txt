@@ -1,0 +1,49 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.oknazzal.architecture.example.feature.images.presentation" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="33" />
+7-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml
+8
+9    <application>
+9-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:5:5-30:19
+10        <activity
+10-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:7:9-17:20
+11            android:name="com.oknazzal.architecture.example.feature.images.presentation.list.ImagesListActivity"
+11-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:8:13-52
+12            android:exported="false" >
+12-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:9:13-37
+13            <intent-filter>
+13-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:11:13-16:29
+14                <category android:name="android.intent.category.DEFAULT" />
+14-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:13:17-76
+14-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:13:27-73
+15
+16                <action android:name="com.oknazzal.images.LIST" />
+16-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:15:17-67
+16-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:15:25-64
+17            </intent-filter>
+18        </activity>
+19        <activity
+19-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:19:9-29:20
+20            android:name="com.oknazzal.architecture.example.feature.images.presentation.details.ImageDetailsActivity"
+20-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:20:13-57
+21            android:exported="false" >
+21-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:21:13-37
+22            <intent-filter>
+22-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:23:13-28:29
+23                <category android:name="android.intent.category.DEFAULT" />
+23-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:13:17-76
+23-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:13:27-73
+24
+25                <action android:name="com.oknazzal.images.DETAILS" />
+25-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:27:17-70
+25-->/Users/oknazzal/AndroidStudioProjects/ArchitectureExample/features/images/presentation/src/main/AndroidManifest.xml:27:25-67
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>
